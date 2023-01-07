@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce-practice/static/css/main.2e6e55c6.css",
+    "main.js": "/ecommerce-practice/static/js/main.6a14ad53.js",
+    "static/media/bg-hero.jpg": "/ecommerce-practice/static/media/bg-hero.e327043d6a1d76e078c0.jpg",
+    "static/media/subject_hero.png": "/ecommerce-practice/static/media/subject_hero.637cd48a8fed34612ef1.png",
+    "static/media/logo.svg": "/ecommerce-practice/static/media/logo.2a8e0768f67b031a97e1abf05ac30327.svg",
+    "index.html": "/ecommerce-practice/index.html",
+    "main.2e6e55c6.css.map": "/ecommerce-practice/static/css/main.2e6e55c6.css.map",
+    "main.6a14ad53.js.map": "/ecommerce-practice/static/js/main.6a14ad53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6e55c6.css",
+    "static/js/main.6a14ad53.js"
+  ]
+}
